@@ -1,4 +1,4 @@
-# Falling-Rockss
+# Falling-Rocks
 A simple 2D falling rocks game made in Unity
 
 ## License
